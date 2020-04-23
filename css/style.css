@@ -1,0 +1,9 @@
+body {
+    background-color: #ecf5ff;
+}
+#game {
+    display: block;
+    margin: auto;
+    border: 10px solid #657;
+    
+}
